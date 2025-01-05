@@ -131,13 +131,13 @@ const Navbar = () => {
 
                                                 <ul className="dropdown-menu">
                                                     <li className="nav-item">
-                                                        <Link href="/services-3" activeClassName="active">
+                                                        <Link href="/Service-Management" activeClassName="active">
                                                             <a onClick={toggleNavbar} className="nav-link">خدمات مشاوره مدیریت</a>
                                                         </Link>
                                                     </li>
 
                                                     <li className="nav-item">
-                                                        <Link href="" activeClassName="active">
+                                                        <Link href="/Service-Assets" activeClassName="active">
                                                             <a onClick={toggleNavbar} className="nav-link">خدمات مدیریت دارایی</a>
                                                         </Link>
                                                     </li>
@@ -241,7 +241,7 @@ const Navbar = () => {
                                             </li>
 
                                             <li className="nav-item">
-                                                <Link href="" activeClassName="active">
+                                                <Link href="/contact" activeClassName="active">
                                                     <a onClick={toggleNavbar} className="nav-link">ارتباط با ما</a>
                                                 </Link>
                                             </li>

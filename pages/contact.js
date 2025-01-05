@@ -12,10 +12,10 @@ const Contact = () => {
             <Navbar />
 
             <PageBanner 
-                pageTitle="تماس با ما"  
+                pageTitle="ارتباط با ما"  
                 homePageUrl="/" 
                 homePageText="صفحه اصلی" 
-                activePageText="تماس با ما" 
+                activePageText="ارتباط با ما" 
                 imgClass="bg-1" 
             />  
             <ContactInfo />

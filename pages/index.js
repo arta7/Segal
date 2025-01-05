@@ -21,13 +21,13 @@ const Index = () => {
         <div style={{fontFamily:'Digikala'}}>
             <Navbar style={{fontFamily:'Digikala'}}/>
             <MainBanner style={{fontFamily:'Digikala'}}/>
-            <SearchForm />
+            {/* <SearchForm />
             <div class="first-facility-emergency pt-100 pb-70"><div class="container"><div class="row justify-content-center">
                 <div class="col-lg-4 col-sm-6"><div class="first-facility-item"><i class="flaticon-online-learning"></i><h3>هدایت</h3>
                 <p>ارائه راهکارهای تخصصی</p></div></div><div class="col-lg-4 col-sm-6"><div class="first-facility-item"><i class="flaticon-care">
                     </i><h3>حمایت</h3><p>حفظ منافع ذینفعان</p></div></div><div class="col-lg-4 col-sm-6">
                 <div class="first-facility-item"><i class="flaticon-support">
-                    </i><h3>پشتیبانی</h3><p>تنوع در خدمات آنلاین</p></div></div></div></div></div>
+                    </i><h3>پشتیبانی</h3><p>تنوع در خدمات آنلاین</p></div></div></div></div></div> */}
             <AboutUs style={{fontFamily:'Digikala'}}/>
             <Faqs style={{fontFamily:'Digikala'}}/>
             <FunFactStyleOne style={{fontFamily:'Digikala'}}/>

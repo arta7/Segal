@@ -6,7 +6,7 @@ const ContactUs = () => {
         <div className="main-contact-area ptb-100">
 			<div className="container">
 				<div className="section-title">
-					<span className="top-title">تماس با ما</span>
+					<span className="top-title">ارتباط با ما</span>
 					<h2>Drop us a message for any query</h2>
 					<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque quibusdam deleniti porro praesentium. Aliquam minus quisquam velit in at nam.</p>
 				</div>

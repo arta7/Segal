@@ -158,10 +158,10 @@ const Footer = () => {
                                 <h3>ارتباط با ما </h3>
                                 <ul>
                                     <li>
-                                        <a href="tel:۰۲۱-88507363">
+                                        <a href="tel:۰۲۱-۸۸۵۰۷۳۶۳">
                                             <i className="bx bx-phone-call"></i>
                                             <span> تلفن:</span> 
-                                            ۰۲۱-88507363
+                                            ۰۲۱-۸۸۵۰۷۳۶۳
                                         </a>
                                     </li>
                                     <li>
@@ -227,7 +227,7 @@ const Footer = () => {
             <div className="footer-bottom-area" style={{fontFamily:'Digikala'}}>
                 <div className="container">
                     <div className="copy-right">
-                        <p>Copyright &copy; {currentYear} تمامی حقوق مادی و معنوی  محفوظ و متعلق به، <a href="https://segalgroup.ir/" target="blank">  سگال ونچرز  </a> می باشد</p>
+                        <p>Copyright &copy; {currentYear} تمامی حقوق مادی و معنوی  محفوظ و متعلق به، <a href="https://segalgroup.ir/" target="blank">  گروه سگال  </a> می باشد</p>
                         {/* Copyright © 2022 تمامی حقوق مادی و معنوی، محفوظ و متعلق به گروه سگال می باشد */}
                     </div>
                 </div>
