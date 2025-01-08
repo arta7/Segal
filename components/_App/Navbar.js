@@ -143,13 +143,13 @@ const Navbar = () => {
                                                     </li>
 
                                                     <li className="nav-item">
-                                                        <Link href="/service-details" activeClassName="active">
+                                                        <Link href="/Service-Accounting" activeClassName="active">
                                                             <a onClick={toggleNavbar} className="nav-link">خدمات تامین مالی شرکتی</a>
                                                         </Link>
                                                     </li>
 
                                                     <li className="nav-item">
-                                                        <Link href="/service-details" activeClassName="active">
+                                                        <Link href="/Service-Maliat" activeClassName="active">
                                                             <a onClick={toggleNavbar} className="nav-link">خدمات اعتبار مالیاتی</a>
                                                         </Link>
                                                     </li>

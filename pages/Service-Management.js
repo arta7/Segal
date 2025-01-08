@@ -18,7 +18,7 @@ const options = {
     margin: 0,
 };
 
-const ServicesDetails = () => {
+const ServiceManagement = () => {
     const [display, setDisplay] = React.useState(false);
 
     React.useEffect(() => {
@@ -39,28 +39,7 @@ const ServicesDetails = () => {
             <div className="services-details-area ptb-100" style={{fontFamily:'Digikala'}}>
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-6">
-                            <div className="services-img">
-                                <img src="/img/service-details/service-details1.jpg" alt="Image" />
-                            </div>
-                        </div>
-
-                        <div className="col-lg-6">
-                            {display ? <OwlCarousel 
-                                className="services-item-wrap owl-carousel owl-theme"
-                                {...options}
-                            >  
-                                <div className="services-item">
-                                    <img src="/img/service-details/service-details2.jpg" alt="Image" />
-                                </div>
-                                <div className="services-item">
-                                    <img src="/img/service-details/service-details3.jpg" alt="Image" />
-                                </div>
-                                <div className="services-item">
-                                    <img src="/img/service-details/service-details4.jpg" alt="Image" />
-                                </div>
-                            </OwlCarousel> : ''}
-                        </div>
+                     
                     </div>
 
 
@@ -74,7 +53,7 @@ const ServicesDetails = () => {
                     <div className="scrives-item-2 mt-4 ">
                         <div className="row align-items-center">
 
-                            <div className="col-lg-12">
+                            <div className="col-lg-15">
                                 <h2 style={{fontFamily:'Digikala'}}>مزایای دریافت مشاوره و خدمت در مدیریت بر دارایی</h2>
                                 <p style={{fontFamily:'Digikala'}}>کمک گرفتن از راهنمایی متخصصان امور مدیریتی دارایی مزایایی دارد که به شرح زیر هستند:</p>
                                 <ul style={{fontFamily:'Digikala'}}>
@@ -126,13 +105,9 @@ const ServicesDetails = () => {
                     
                     <div className="scrives-item-2 mt-4 ">
                         <div className="row align-items-center">
-                            <div className="col-lg-4">
-                                <div className="services-img">
-                                    <img src="/img/service-details/service-details5.jpg" alt="Image" />
-                                </div>
-                            </div>
+                          
 
-                            <div className="col-lg-8">
+                            <div className="col-lg-15">
                                 <h3 style={{fontFamily:'Digikala'}}>مشاوره افزایش سرمایه</h3>
                                 <p>افزایش سرمایه یکی از روش‌های شرکت‌ها برای توسعه‌ی فعالیت‌ها، طرح‌های جدید و تأمین نقدینگی لازم برای اجرایی‌سازی پروژه‌ها می‌باشد. انواع روش‌های افزایش سرمایه به شرح ذیل است:</p>
                                 <ul>
@@ -163,13 +138,9 @@ const ServicesDetails = () => {
 
                     <div className="scrives-item-2 mt-4 ">
                         <div className="row align-items-center">
-                            <div className="col-lg-4">
-                                <div className="services-img">
-                                    <img src="/img/service-details/service-details5.jpg" alt="Image" />
-                                </div>
-                            </div>
+                          
 
-                            <div className="col-lg-8">
+                            <div className="col-lg-15">
                                 <h3 style={{fontFamily:'Digikala'}}>ادغام و تملیک</h3>
                                 <p>ادغام و تملیک (M & A) یک اصطلاح کلی است که به تحکیم شرکت و یا دارایی ها اشاره دارد، هر چند بنا به پویایی‌هایی که در محیط کسب‌وکار وجود دارد، ادغام و قبضۀ مالکیت همواره اتفاق می‌افتد اما در سال‌های اخیر و با توجه به وضعیت اقتصادی پیش‌آمده و سیاست‌های استراتژیک اقتصادی دولت ج.ا.ا و نیاز شرکت‌ها به تأمین منابع مالی تازه، (داخلی و بین‌المللی) جهت پیاده‌سازی طرح‌های توسعه‌ای خود،  فضای کاری گسترده‌ای در این حوزه ایجاد شده است در این راستا سگال ونچرز می‌تواند مشتریان خود را از مرحلۀ اتخاذ استراتژی‌های مرتبط تا انجام تمامی رویه‌های قانونی و اجرایی همراهی نماید.</p>
                             </div>
@@ -179,13 +150,9 @@ const ServicesDetails = () => {
 
                     <div className="scrives-item-2 mt-4 ">
                         <div className="row align-items-center">
-                            <div className="col-lg-4">
-                                <div className="services-img">
-                                    <img src="/img/service-details/service-details5.jpg" alt="Image" />
-                                </div>
-                            </div>
+                          
 
-                            <div className="col-lg-8">
+                            <div className="col-lg-15">
                                 <h3 style={{fontFamily:'Digikala'}}>تجدید ساختار شرکتی</h3>
                                 <p>تجدید ساختار نوعی استراتژی شرکتی است که در آن کلیۀ ساختارهای شرکت اعم از ساختارهای قانونی، عملیاتی، مالکیتی و غیره، به منظور افزایش سودآوری و یا بهبود عملکرد سازمانی در جهت رفع نیازهای فعلی و مواجه با نیازهای آتی، دوباره سازماندهی می‌شود. از دیگر دلایل مهم تجدید ساختار می‌توان به تغییر ساختار سهام‌داری در اثر فرآیند ادغام و یا تملک و حتی واکنش در برابر یک بحران و یا تغییر عمده در کسب‌وکار نظیر ورشکستگی، اشاره کرد. سگال ونچرز با اتکا به قابلیت‌های علمی و عملیاتی متخصصان مجرب خود، طیف وسیعی از خدمات را در حوزۀ تجدید ساختار شرکت‌ها ارائه می‌دهد که از مهم‌ترین آن‌ها می‌توان به اصلاح ساختار مالی و سازمانی اشاره کرد.</p>
                             </div>
@@ -241,4 +208,4 @@ const ServicesDetails = () => {
     )
 }
 
-export default ServicesDetails;
+export default ServiceManagement;
