@@ -20,7 +20,7 @@ const Contact = () => {
             />  
             <ContactInfo />
 
-            <ContactForm />
+            {/* <ContactForm /> */}
 
             <Subscribe />
             

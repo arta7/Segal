@@ -37,23 +37,7 @@ const About = () => {
                 </strong>
                     </div>
                     <div className="row align-items-center" style={{marginTop:30}}>
-                        <div className="col-lg-6">
-                            <div className="about-img">
-                                <img src="/img/about/about1.jpg" alt="Image" />
-
-                                {/* <div className="shape-1">
-                                    <img src="/img/about/about-shape-1.png" alt="Image" />
-                                </div> */}
-
-                                {/* <div className="shape-2">
-                                    <img src="/img/about/about-shape-2.png" alt="Image" />
-                                </div> */}
-
-                                {/* <div className="shape-3">
-                                    <img src="/img/about/about-shape-3.png" alt="Image" />
-                                </div> */}
-                            </div>
-                        </div>
+                       
 
                         <div className="col-lg-6">
                             <div className="about-content" style={{fontFamily:'Digikala'}}>
@@ -89,7 +73,7 @@ const About = () => {
             <div className="about-area two ptb-100">
                 <div className="container">
                     <div className="row align-items-center">
-                        <div className="col-lg-6">
+                        {/* <div className="col-lg-6">
                             <div className="about-img">
                                 <img src="/img/about-two/about-two1.png" alt="Image" />
 
@@ -97,7 +81,7 @@ const About = () => {
                                     <img src="/img/about-two/about-two-shape2.png" alt="Image" />
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className="col-lg-6">
                             <div className="about-content" style={{fontFamily:'Digikala'}}>

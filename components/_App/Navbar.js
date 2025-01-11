@@ -193,7 +193,7 @@ const Navbar = () => {
                                                 <ul className="dropdown-menu">
                                                   
                                             <li className="nav-item">
-                                                <Link href="/blog-grid" activeClassName="active">
+                                                <Link href="/Service-PrivateFund" activeClassName="active">
                                                 <a onClick={toggleNavbar} className="nav-link">
                                                 صندوق سرمایه گذاری خصوصی
                                                     </a>
@@ -201,7 +201,7 @@ const Navbar = () => {
                                             </li>
                                             
                                             <li className="nav-item">
-                                                <Link href="/blog-right-sidebar" activeClassName="active">
+                                                <Link href="/Service-InnovationFund" activeClassName="active">
                                                 <a onClick={toggleNavbar} className="nav-link">
                                                 صندوق سرمایه گذاری نوآوری
                                                     </a>
@@ -224,13 +224,13 @@ const Navbar = () => {
 
                                                 <ul className="dropdown-menu">
                                                     <li className="nav-item">
-                                                        <Link href="/blog-grid2" activeClassName="active">
+                                                        <Link href="/Service-Researchtaxcredit" activeClassName="active">
                                                             <a onClick={toggleNavbar} className="nav-link">اعتبار مالیاتی تحقیق و توسعه</a>
                                                         </Link>
                                                     </li>
 
                                                     <li className="nav-item">
-                                                        <Link href="/contact" activeClassName="active">
+                                                        <Link href="/Service-MaliatTaxCredit" activeClassName="active">
                                                             <a onClick={toggleNavbar} className="nav-link">اعتبار مالیاتی سرمایه گذاری</a>
                                                         </Link>
                                                     </li>
