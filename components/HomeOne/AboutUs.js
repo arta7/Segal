@@ -51,9 +51,9 @@ const AboutUs = () => {
 								
 							</ul>
 
-                            <Link href="/about">
+                            {/* <Link href="/about">
 						    	<a className="default-btn">درباره تامین مالی سگال</a>
-                            </Link>
+                            </Link> */}
 						</div>
 					</div>
 				</div>
