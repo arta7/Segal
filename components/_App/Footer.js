@@ -6,7 +6,7 @@ const Footer = () => {
  
     return (
         <>
-            <footer className="footer-top-area f-bg pt-100 pb-70" style={{fontFamily:'Digikala'}}>
+            <footer className="footer-top-area f-bg pt-100 pb-70" style={{fontFamily:'Digikala',textAlign:'justify'}}>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-3 col-md-6">
@@ -190,7 +190,7 @@ const Footer = () => {
                         <div style={{flexDirection:'row',display:'flex',justifyContent:'space-between',alignItems:'center'}}>
                         
                             <div >
-                        <Link href="https://logo.samandehi.ir/Verify.aspx?id=316132&p=xlaorfthgvkarfthxlaouiwk">
+                        <Link href="https://logo.samandehi.ir/Verify.aspx?id=376029&p=xlaojyoegvkaobpduiwkpfvl">
                                     <a>
                                         <img src="\img\digitallogo.png" alt="Image" />
                                     </a>

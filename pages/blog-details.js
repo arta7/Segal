@@ -22,7 +22,7 @@ const BlogGrid = () => {
                 imgClass="bg-3" 
             />  
 
-            <div className="blog-details-area ptb-100" style={{fontFamily:'Digikala'}}>
+            <div className="blog-details-area ptb-100" style={{fontFamily:'Digikala',textAlign:'justify'}}>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-8 col-md-12">

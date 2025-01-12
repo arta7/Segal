@@ -2,7 +2,7 @@ import React from 'react';
 
 const Subscribe = () => {
     return (      
-        <div className="subscribe-area" style={{fontFamily:'Digikala'}}>
+        <div className="subscribe-area" style={{fontFamily:'Digikala',textAlign:'justify'}}>
 			<div className="container">
 				<div className="row align-items-center">
 					<div className="col-lg-6" >

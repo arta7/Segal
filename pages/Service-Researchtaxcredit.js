@@ -37,7 +37,7 @@ const ServiceResearchtaxcredit = () => {
                 imgClass="bg-1"
             />
 
-            <div className="services-details-area ptb-100" style={{ fontFamily: 'Digikala' }}>
+            <div className="services-details-area ptb-100" style={{fontFamily:'Digikala',textAlign:'justify'}}>
                 <div className="container">
                     <div className="row">
                      

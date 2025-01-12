@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactInfo = () => {
     return (      
-        <div className="contact-info-area" style={{fontFamily:'Digikala'}}>
+        <div className="contact-info-area" style={{fontFamily:'Digikala',textAlign:'justify'}}>
 			<div className="container-fluid">
 				<div className="row" style={{justifyContent:'center',alignItems:'center'}}>
 					<div className="col-lg-3 p-0">

@@ -19,7 +19,7 @@ const About = () => {
                 imgClass="bg-1" 
             /> 
 
-            <div className="about-area about-page pb-130" style={{fontSize:'Digikala'}}>
+            <div className="about-area about-page pb-130" style={{fontFamily:'Digikala',textAlign:'justify'}}>
                 <div className="container">
                 <div className="about-content" style={{fontFamily:'Digikala'}}>
                 <h2 style={{fontFamily:'Digikala'}}>معرفی سگال ونچرز</h2>
