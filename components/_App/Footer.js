@@ -13,7 +13,7 @@ const Footer = () => {
                             <div className="single-widget">
                                 <Link href="">
                                     <a>
-                                        <img src="/img/logo.png" alt="Image" />
+                                        <img src="/img/logo-footer.png" alt="Image" />
                                     </a>
                                 </Link>
 
@@ -198,7 +198,7 @@ const Footer = () => {
                                 </div>
                                 <div >
 
-                                <Link href="https://trustseal.enamad.ir/?id=301704&amp;amp;Code=izPUJQeCOvJOgUSPAlBB">
+                                <Link href="https://trustseal.enamad.ir/?id=568362&amp;amp;Code=CWrBfJEyb8ZDn2Ps58yxK0yZmpVjGY0I">
                                     <a>
                                         <img src="\img\inamad.png" alt="Image" />
                                     </a>
@@ -206,7 +206,7 @@ const Footer = () => {
                                 </div>
                                 <div >
 
-<Link href="https://tehran.irannsr.org/fa/page/104366-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%A7%D8%B9%D8%B6%D8%A7.html?ctp_id=1086&id=33560">
+<Link href="https://tehran.irannsr.org/fa/page/104366-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%A7%D8%B9%D8%B6%D8%A7.html?ctp_id=1086&id=31324">
     <a>
         <img src="\img\irannsr.png" alt="Image" />
     </a>
@@ -227,7 +227,7 @@ const Footer = () => {
             <div className="footer-bottom-area" style={{fontFamily:'Digikala'}}>
                 <div className="container">
                     <div className="copy-right">
-                        <p>Copyright &copy; {currentYear} تمامی حقوق مادی و معنوی  محفوظ و متعلق به، <a href="https://segalgroup.ir/" target="blank">  گروه سگال  </a> می باشد</p>
+                        <p>Copyright &copy; {currentYear} تمامی حقوق مادی و معنوی  محفوظ و متعلق به، <a href="https://segalgroup.ir/" target="blank">  سگال ونچرز  </a> می باشد</p>
                         {/* Copyright © 2022 تمامی حقوق مادی و معنوی، محفوظ و متعلق به گروه سگال می باشد */}
                     </div>
                 </div>

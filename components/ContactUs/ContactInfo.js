@@ -8,8 +8,8 @@ const ContactInfo = () => {
 					<div className="col-lg-3 p-0">
 						<div className="single-contact-info" >
 							<i className="bx bx-location-plus"></i>
-							<h3 style={{fontFamily:'Digikala'}}>آدرس شعبه مرکزی</h3>
-							<p>تهران - خیابان شهید بهشتی - خیابان مفتح شمالی - خیابان هشتم - پلاک 1 - واحد 9   کد پستی : 1587815434</p>
+							<h3 style={{fontFamily:'Digikala'}}>ارتباط با واحد مالی و اداری </h3>
+							<p>تهران - خیابان شهید بهشتی - خیابان مفتح شمالی - خیابان هشتم - پلاک 1 - واحد 9 کد پستی : ۱۵۸۷۸۱۵۴۳۴</p>
 							<span>ایمیل: info@segalventures.ir</span>	
 						</div>
 					</div>
@@ -18,8 +18,9 @@ const ContactInfo = () => {
 					<div className="col-lg-3 p-0">
 						<div className="single-contact-info">
 							<i className="bx bx-location-plus"></i>
-							<h3 style={{fontFamily:'Digikala'}}>ارتباط داخل کشور </h3>	
-							<p>برای گزارش مشکلات یا دریافت راهنمایی استفاده از خدمات وکیلان و یا هر نوع سوال، ایراد و انتقاد، پیشنهاد یا تقدیر از کارکنان وکیلان با شماره ذیل تماصل حاصل نمایید </p>
+							<h3 style={{fontFamily:'Digikala'}}>ارتباط با واحد سرمایه گذاری</h3>	
+							<p>تهران - خیابان شهید بهشتی - خیابان مفتح شمالی - خیابان هشتم - پلاک 1 - واحد 9 کد پستی : ۱۵۸۷۸۱۵۴۳۴</p>
+							<p>ایمیل:  finance@segalventures.ir</p>
 							<span>Tel: ۰۲۱۸۸۵۰۷۳۶۳ </span>	
 						</div>
 					</div>
@@ -27,9 +28,10 @@ const ContactInfo = () => {
 					<div className="col-lg-3 p-0">
 						<div className="single-contact-info">
 							<i className="bx bx-location-plus"></i>
-							<h3 style={{fontFamily:'Digikala'}}> ارتباط ایرانیان خارج از کشور </h3>	
-							<p> ایرانیان محترم خارج از کشور اگر شما مشکل حقوقی، ملکی، کیفری يا ثبتي در ایران دارید یا با مراجع قضایی ، انتظامی یا ارگان ها و سازمانهای دولتی و عمومی مانند دادگاه انقلاب ، ستاد اجراي فرمان امام ، بنياد مستضعفان يا اداره مالیات يا اداره مهاجرت و ... درگیر هستید با شماره های ذیل از طریق واتساپ در خدمت شما هستيم</p>
-							<span>WhatsApp : 00989397711770
+							<h3 style={{fontFamily:'Digikala'}}> ارتباط با واحد اعتبار مالیاتی </h3>	
+							<p> تهران - خیابان شهید بهشتی - خیابان مفتح شمالی - خیابان هشتم - پلاک 1 - واحد 9 کد پستی : ۱۵۸۷۸۱۵۴۳۴</p>
+							<p>ایمیل : taxcredit@segalventures.ir</p>
+							<span>Tel : ۰۲۱۸۸۵۰۷۳۶۳
 								 </span>	
 						</div>
 					</div>

@@ -13,7 +13,7 @@ const Layout = ({ children }) => {
     return(
         <>
             <Head>
-                <title>تامین مالی سگال - مشاوره نو</title>
+                <title>سگال ونچرز</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
                 <meta 
                     name="description" 

@@ -31,7 +31,7 @@ const Faqs = () => {
                                     <AccordionItemHeading>
                                         <AccordionItemButton>
                                         <span style={{color:'#096863'}}>
-                                          هوش مصنوعی
+                                       توسعه هوشمند
                                             </span>
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
