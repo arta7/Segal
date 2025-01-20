@@ -86,18 +86,18 @@ const About = () => {
                         <div className="col-lg-6">
                             <div className="about-content" style={{fontFamily:'Digikala'}}>
                                 {/* <span className="top-title">About Corona</span> */}
-                                <h2 style={{fontFamily:'Digikala'}}>امتیازات   سگال ونچرز</h2>
-                                <strong style={{fontFamily:'Digikala'}}>امتیازات همکاری در پلتفرم سگال ونچرز برای متخصصان کشور</strong>
+                                <h2 style={{fontFamily:'Digikala'}}>امتیازات  همکاری با سگال ونچرز</h2>
+                                <strong style={{fontFamily:'Digikala'}}>امتیازات همکاری با سگال ونچرز برای متخصصان کشور</strong>
                                 {/* <strong>The best way to prevent illness is to avoid being exposed to this virus.</strong> */}
 
                                 <ul>
                                     <li style={{fontFamily:'Digikala'}}>
                                         <i className="flaticon-tick"></i>
-                                        	هوش مصنوعی - توسعه کسب و کار با بکارگیری هوش مصنوعی
+                                        	 توسعه هوشمند -  مشاوره توسعه کسب و کار با بکارگیری هوش مصنوعی
                                     </li>
                                     <li style={{fontFamily:'Digikala'}}>
                                         <i className="flaticon-tick"></i>
-                                        	رشد و پیشرفت  - ارتقاء مداوم سطح کیفی ارائه خدمات تخصصی 
+                                        	رشد و پیشرفت  - مشاوره  ارتقاء مداوم سطح کیفی ارائه خدمات تخصصی 
                                     </li>
                                     <li style={{fontFamily:'Digikala'}}>
                                         <i className="flaticon-tick"></i>

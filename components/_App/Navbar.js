@@ -124,7 +124,7 @@ const Navbar = () => {
                                             <li className="nav-item">
                                                 <Link href="/#">
                                                     <a onClick={e => e.preventDefault()} className="nav-link">
-                                                    خدمات سگال ونچرز
+                                                    خدمات ما
                                                         {/* <i className='bx bx-plus'></i> */}
                                                     </a>
                                                 </Link>

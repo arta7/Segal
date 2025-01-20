@@ -13,7 +13,7 @@ const Faqs = () => {
 			<div className="container">
 				<div className="section-title">
 					<span className="top-title">برتری های ما</span>
-					<h2>امتیازات سگال ونچرز</h2>
+					<h2>امتیازات همکاری با سگال ونچرز</h2>
 					{/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A facilis vel consequatur tempora atque blanditiis exercitationem incidunt, alias corporis quam assumenda dicta, temporibus.</p> */}
 				</div>
 
@@ -36,7 +36,7 @@ const Faqs = () => {
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
-                                        <p > توسعه کسب و کار با بکارگیری هوش مصنوعی </p>
+                                        <p >  مشاوره توسعه کسب و کار با بکارگیری هوش مصنوعی  </p>
                                     </AccordionItemPanel>
                                 </AccordionItem>
 
@@ -49,7 +49,7 @@ const Faqs = () => {
                                         </AccordionItemButton>
                                     </AccordionItemHeading>
                                     <AccordionItemPanel>
-                                        <p> ارتقاء مداوم سطح کیفی ارائه خدمات تخصصی </p>
+                                        <p>  مشاوره ارتقاء مداوم سطح کیفی ارائه خدمات تخصصی </p>
                                     </AccordionItemPanel>
                                 </AccordionItem>
 

@@ -11,6 +11,7 @@ const ContactInfo = () => {
 							<h3 style={{fontFamily:'Digikala'}}>ارتباط با واحد مالی و اداری </h3>
 							<p>تهران - خیابان شهید بهشتی - خیابان مفتح شمالی - خیابان هشتم - پلاک 1 - واحد 9 کد پستی : ۱۵۸۷۸۱۵۴۳۴</p>
 							<span>ایمیل: info@segalventures.ir</span>	
+							<span>Tel: ۰۲۱۸۸۵۰۷۳۶۳ </span>	
 						</div>
 					</div>
 
