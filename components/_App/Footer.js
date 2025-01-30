@@ -234,7 +234,7 @@ const Footer = () => {
             <div className="footer-bottom-area" style={{ fontFamily: 'Digikala' }}>
                 <div className="container">
                     <div className="copy-right">
-                        <p>Copyright &copy; {currentYear} تمامی حقوق مادی و معنوی  محفوظ و متعلق به، <a href="https://segalgroup.ir/" target="blank">  سگال ونچرز  </a> می باشد</p>
+                        <p>Copyright &copy; {currentYear} تمامی حقوق مادی و معنوی  محفوظ و متعلق به،  سگال ونچرز  می باشد</p>
                         {/* Copyright © 2022 تمامی حقوق مادی و معنوی، محفوظ و متعلق به گروه سگال می باشد */}
                     </div>
                 </div>
